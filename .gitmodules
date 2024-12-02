@@ -1,0 +1,45 @@
+[submodule "external_libraries/eigen"]
+	path = external_libraries/eigen
+	url = https://gitlab.com/libeigen/eigen
+[submodule "external_libraries/glm"]
+	path = external_libraries/glm
+	url = https://github.com/g-truc/glm
+[submodule "external_libraries/zlib"]
+	path = external_libraries/zlib
+	url = https://github.com/madler/zlib
+[submodule "external_libraries/xz"]
+	path = external_libraries/xz
+	url = https://github.com/tukaani-project/xz
+[submodule "external_libraries/cnpy"]
+	path = external_libraries/cnpy
+	url = https://github.com/rogersce/cnpy
+[submodule "external_libraries/glog"]
+	path = external_libraries/glog
+	url = https://github.com/google/glog
+[submodule "external_libraries/tinyformat"]
+	path = external_libraries/tinyformat
+	url = https://github.com/c42f/tinyformat
+[submodule "external_libraries/rapidjson"]
+	path = external_libraries/rapidjson
+	url = https://github.com/Tencent/rapidjson
+[submodule "external_libraries/googletest"]
+	path = external_libraries/googletest
+	url = https://github.com/google/googletest
+[submodule "external_libraries/stb"]
+	path = external_libraries/stb
+	url = https://github.com/nothings/stb
+[submodule "external_libraries/optionparser"]
+	path = external_libraries/optionparser
+	url = https://github.com/hepcatjk/optionparser
+[submodule "external_libraries/libpng"]
+	path = external_libraries/libpng
+	url = https://github.com/pnggroup/libpng
+[submodule "external_libraries/fast_float"]
+	path = external_libraries/fast_float
+	url = https://github.com/fastfloat/fast_float
+[submodule "external_libraries/openexr"]
+	path = external_libraries/openexr
+	url = https://github.com/openexr/openexr
+[submodule "external_libraries/Imath"]
+	path = external_libraries/Imath
+	url = https://github.com/AcademySoftwareFoundation/Imath
