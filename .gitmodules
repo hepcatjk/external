@@ -43,3 +43,6 @@
 [submodule "external_libraries/Imath"]
 	path = external_libraries/Imath
 	url = https://github.com/AcademySoftwareFoundation/Imath
+[submodule "external_libraries/libtiff"]
+	path = external_libraries/libtiff
+	url = https://gitlab.com/libtiff/libtiff.git

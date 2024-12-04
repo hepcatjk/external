@@ -205,3 +205,5 @@ mark_as_advanced(
 #Build fast_float ##################################################################
 #ADD_SUBDIRECTORY(fast_float)
 
+# Build LibTIFF
+ADD_SUBDIRECTORY(libtiff)

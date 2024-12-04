@@ -27,4 +27,6 @@ git submodule add https://github.com/c42f/tinyformat external_libraries/tinyform
 git submodule add https://github.com/Tencent/rapidjson external_libraries/rapidjson
 git submodule add https://github.com/nothings/stb external_libraries/stb
 
+git submodule add https://gitlab.com/libtiff/libtiff.git external_libraries/libtiff
+
 
